@@ -1,2 +1,2 @@
 # AUV_Dynamic
-Dynamic modeling of underwater unmanned vehicle by Scipy&amp;Sympy
+Dynamic modeling of autonomous underwater vehicle by Scipy&amp;Sympy
